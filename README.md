@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I am a Computer Science Major at Waterloo<br>👨‍💻 I am well versed in JavaScript, Python, C++<br>🤖 I am interested in working on any machine learning related projects<br>️🚨 Currently I am working on training a machine learning model to detect room capacity.
+💻 I am a Computer Science Major at Waterloo<br>👨‍💻 I am well versed in JavaScript, Python, C++, and C <br>🤖 I am interested in working on any machine learning related projects<br>️🚨 Currently I am working on training a machine learning model to detect room capacity.
 
 
 ## 🌐 Socials:
