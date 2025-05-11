@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I am a Computer Science Major at Waterloo<br>👨‍💻 I am well versed in JavaScript, Python, C++, and C <br>🤖 I am interested in working on any machine learning related projects<br>️🚨 Currently I am working on building a Spellcast Automater
+💻 I am a 2A Computer Science Major at Waterloo<br>👨‍💻 I am well versed in Python, C, C++, and JavaScript <br>🤖 I am interested in working on any machine learning related projects<br>️🚨 Currently I am working on automating block blast
 
 
 ## 🌐 Socials:
